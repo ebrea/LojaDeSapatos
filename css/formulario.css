@@ -91,28 +91,33 @@ fieldset label#rEmail { text-align: left;	}
 /*********************** termo de Consentimento (checkbox + Link) ****************/
 
 .termo {
-	margin-top: 15px;
+	margin-top: 15px;	
 }
-.termo input { 
+.quadradinho { 
 	width: 22px;
 	margin-left: 30px;
-
 }
 .termo label{
+	padding: 2px 0;
 	display: inline-flex;
 	color: white; 
-	width: 500px;
+	width: 133px;
 	font-size: 18px;
 }
-
-#termo-pagina {
-	background-color: rgba(235, 230, 230, 0.952);
-	width: 800px;
-	margin: 20px;
-	padding: 10px 20px;
+.verTermo {
+	background-color: rgb(109, 107, 107); 
+	/* background-image: url(../img/madeira.jpg);	 */
+	/* opacity: 0.8; */
+	padding: 2px 0;
+	border: none;
+	width: 210px;
+	height: 23px;
 	font-size: 18px;
+	font-style: italic;
+	color: white; 
+} 
 
-}
+
 
 h2 {
 	text-align: center;
@@ -123,7 +128,7 @@ h2 {
 
 /*********************** botão Enviar ****************/
 .botao {
-	background-color: rgb(85, 84, 84); /* mesma cor do formulário*/
+	background-color: rgb(85, 84, 84); 
 	width: 100px;
 	height: 35px;
 	padding: 0 0 0 1px;
