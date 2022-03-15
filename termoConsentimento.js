@@ -1,0 +1,7 @@
+
+function termo() {
+    alert('1 Como são felizes os que andam em caminhos irrepreensíveis, que vivem conforme a lei do SENHOR.\n2 Como são felizes os que obedecem aos seus estatutos e de todo o coração o buscam. \n3 Não praticam o mal e andam nos caminhos do SENHOR. \n4 Tu, ó Deus, nos deste as tuas leis e mandaste que as cumpríssemos fielmente.  \n5 Como desejo obedecer às tuas ordens e cumpri-las com fidelidade. \n6 Então não ficaria decepcionado ao considerar todos os teus mandamentos. \n7 Eu te louvarei de coração sincero quando aprender as tuas justas ordenanças.  \n8 Obedecerei aos teus decretos; peço-te que não me abandones nunca. \n9 Como pode o jovem manter pura a sua conduta? Vivendo de acordo com a tua palavra.  \n10 Eu te busco de todo o coração; não permitas que eu me desvie dos teus mandamentos. \n11 Guardei no coração a tua palavra para não pecar contra ti. \n12 Bendito sejas, SENHOR! Ensina-me os teus decretos.  \n13 Com os lábios repito todas as leis que promulgaste. \n14 Regozijo-me em seguir os teus testemunhos como o que se regozija com grandes riquezas. \n15 Meditarei nos teus preceitos e darei atenção às tuas veredas. \n16 Tenho prazer nos teus decretos; não me esqueço da tua palavra. ');
+
+}
+
+    

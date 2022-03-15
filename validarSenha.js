@@ -1,8 +1,4 @@
 
-// var s1 = 'd100@abc';
-// testarSenha(s1)
-
-
 function testarSenha(senha) {
 
     var validos = '1234567890ABCDEFGHIJKLMNOPQRSTUVXYZW()#@$%&*-_+=';
@@ -12,6 +8,7 @@ function testarSenha(senha) {
     var caracter = false;
     var maiuscula = 0;
     var resultado = '';
+    // alert('Senha= '+senha)
 
     if (senha.length < 6 || senha.length > 10) {
         resultado = 'A senha tem '+pw.length+ ' dígitos (deve ter de 6 a 10)';
